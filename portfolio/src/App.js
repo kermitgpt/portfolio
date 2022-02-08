@@ -1,7 +1,5 @@
 import React from "react";
 
-function App() {
-  return <test />;
+export default function App() {
+  return "App";
 }
-
-export default App;
