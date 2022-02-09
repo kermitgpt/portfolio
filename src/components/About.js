@@ -20,12 +20,12 @@ export default function About() {
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline hover:bg-green-600 rounded text-lg">
-              CONTACT
+              Contact
             </a>
             <a
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              PROJECTS
+              Projects
             </a>
             <ul class="flex justify-center">
               <li class="px-3 pt-3">
