@@ -31,7 +31,7 @@ Scroll through my portfolio to find out a little information about me and see th
 
 [GitHub Repo Link](https://github.com/mattgrogandev/portfolio)
 
-[Deployed Application Link](https://bit.ly/mattgrogandev)
+[Deployed Application Link](https://thirsty-cray-134ba0.netlify.app/)
 
 ## Media
 
