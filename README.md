@@ -20,14 +20,23 @@ This portfolio contains some information about me, links to my GitHub & LinkedIn
 
 Scroll through my portfolio to find out a little information about me and see the types of things I've worked on. If you are interested in connecting please reach out with the contact information provided at bottom of page or fill out the contact form. Thank you for taking the time to look at my portfolio!
 
+## ⛏️ Built Using <a name = "built_using"></a>
+
+- # ReactJS
+- # TailwindCSS
+- # JavaScript
+- # Netlify
+
 ## Repository-Link
 
 [GitHub Repo Link](https://github.com/mattgrogandev/portfolio)
+
 [Deployed Application Link](https://bit.ly/mattgrogandev)
 
 ## Media
 
 ![test-website-screenshot1](./images/websitepic1.jpg)
+
 ![test-website-screenshot2](./images/websitepic2.jpg)
 
 ## Questions
